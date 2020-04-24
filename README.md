@@ -1,3 +1,1 @@
-# GAN_MNIST_NUMBER_GENERATOR
-
-Generate an image of a number givent the number using Generative Adversarial Nets.
+A Generative Adversarial Network built using Tensorflow that produces "Human-Like" handwritten numbers, trained on the MNIST dataset.
